@@ -1,0 +1,7 @@
+datasets/
+__pycache__/
+dataset
+my_torch_generator
+my_torch_analyzer
+*.conf
+*.json
