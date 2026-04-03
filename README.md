@@ -1,5 +1,7 @@
 # MY_TORCH
 
+> Made by **Marlon PEGAHI** and **Alexandre BRET**
+
 ## Project Overview
 MY_TORCH is a project that involves creating and training a neural network to analyze chessboard states. The project consists of two main components:
 1. **Neural Network Generator**: Generates neural networks based on configuration files.
